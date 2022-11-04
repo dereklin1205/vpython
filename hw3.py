@@ -1,2 +1,2 @@
 #import math
-print(gcd(3, 6))
+print(math.gcd(3, 6))
